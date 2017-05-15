@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Info o Sieci</string>
+    <string name="action_end">Zamknij</string>
+    <string name="button_send">Pomiar sieci</string>
+    <string name="checkBox">Pomiar referencyjny</string>
+    <string name="button2">Start</string>
+    <string name="button3">Koniec</string>
+    <string name="button4">Zapis</string>
+    <string name="textOperator">Operator</string>
+    <string name="textStandard">Standard</string>
+    <string name="textBase">Stacja Bazowa</string>
+    <string name="textView">text3</string>
+    <string name="textStrength">Moc</string>
+    <string name="intro">Witaj w aplikacji pobierającej dane o sieci.\n Rozpocznij swój pierwszy pomiar!</string>
+    <string name="title_activity_display_message">Message</string>
+    <string name="title_activity_signal_strength">signalStrength</string>
+</resources>
